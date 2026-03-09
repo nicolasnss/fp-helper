@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FPCalculatorApplication<fp-calculator>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nicolas.fpcalculator.FPCalculatorApplication",
+            "projectName": "fp-calculator",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
