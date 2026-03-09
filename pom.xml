@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nicolas</groupId>
-    <artifactId>fp-calculator</artifactId>
+    <artifactId>fp-helper</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>fp-calculator</name>
+    <name>fp-helper</name>
     <description>Calculadora de Pontos de Função</description>
 
     <parent>
