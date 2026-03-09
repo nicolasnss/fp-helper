@@ -1,0 +1,18 @@
+# Pasta de compilação do Maven
+target/
+
+# Arquivos do Maven Wrapper (opcional, mas recomendado manter no Git)
+!.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos de log e temporários
+*.log
+.temp/
+
+# Configurações do ambiente (se existirem)
+.env
+.DS_Store
+
+# Pastas de IDE
+.idea/
+.vscode/
+*.swp
