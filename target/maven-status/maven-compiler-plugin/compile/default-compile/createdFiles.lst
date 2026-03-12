@@ -1,8 +1,0 @@
-com\nicolas\fpcalculator\service\FPCalculatorService$1.class
-com\nicolas\fpcalculator\model\FunctionPoint.class
-com\nicolas\fpcalculator\model\FunctionPointType.class
-com\nicolas\fpcalculator\controller\FPCalculatorController.class
-com\nicolas\fpcalculator\service\FPCalculatorService.class
-com\nicolas\fpcalculator\FPCalculatorApplication.class
-com\nicolas\fpcalculator\dto\FunctionPointRequest.class
-com\nicolas\fpcalculator\model\FunctionPointComplexity.class
